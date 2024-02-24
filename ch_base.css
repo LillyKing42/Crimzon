@@ -1,3 +1,5 @@
+
+/* =============================================
 	HTML5 structural elements
    =============================================
 */
@@ -153,6 +155,9 @@ img {
 figure {
 	margin: 0;
 }
+audio, canvas, video {
+	display: inline-block;
+}
 
 
 /* =============================================
@@ -194,6 +199,7 @@ button[disabled], input[disabled] {
 input[type="checkbox"], input[type="radio"] {
 	box-sizing: border-box;
 	padding: 0;
+
 }
 input[type="search"] {
 	-webkit-appearance: textfield;
