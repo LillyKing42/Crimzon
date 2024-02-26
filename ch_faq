@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <!--
+      Rai Shao FAQ
+      Author: Raihanah Shabazz
+      Date:   02-25-2024
+
+      Filename:   ch_faq.html
+   -->
+   
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <title>Crimzon Zero FAQ</title>
+   <link href="ch_layout" rel="stylesheet"/>
+   <link rel="stylesheet" href="ch_layout2">
+   <link href="ch_layout3.css" rel="stylesheet"/>
+</head>
+
+  <header>
+    <h1>Frequently Asked Questions</h1>
+    <nav>
+      <a href="ch_about.html">About Us</a>
+      <a herf="ch_faq.html">FAQ</a>
+      <a href="ch_index">Home</a>
+    </nav>
+  </header>
+
+    <body>
+      <ol><a href="f1">Do they support wireless charging?</a></ol>
+      <ol><a href="f2">Do they have noise-canceling features?</a></ol>
+      <ol><a href="f3">How do I pair my headphones with a Bluetooth device?</a></ol>
+      <ol><a href="f4">Are they compatible with all Bluetooth-enabled devices?</a></ol>
+      <ol><a href="f5">Can I use the headphones while they are charging via USB?</a></ol>
+      <ol><a href="f6">What is the range of Bluetooth connectivity for these headphones?</a></ol>
+      <ol><a href="f7">How do I switch between wired and Bluetooth modes on my headphones</a></ol>
+      <ol><a href="f8">Can I still use my headphones if the battery runs out while in Bluetooth mode?</a></ol>
+      <ol><a href="f9">Can I connect multiple devices to my headphones simultaneously via Bluetooth?</a></ol>
+      <ol><a href="f10">Can I customize the sound settings or EQ preferences when using Bluetooth mode?</a></ol>
+      <ol><a href="f11">Do wired headphones with Bluetooth capability support voice assistant integration?</a></ol>
+      <ol><a href="f12">How long does it take to charge the headphones, and how long does the battery last?</a></ol>
+      <ol><a href="f13">Are there any warranty or support options available for troubleshooting Bluetooth connectivity issues?</a></ol>
+
+      <h2 id="f7">How do I switch between wired and Bluetooth modes on my headphones</h2>
+        <p>You switch between wired and Bluetooth by switching between what kind of connection is plugged into the IEMs.</p> 
+      <h2 id="f4">Are they compatible with all Bluetooth-enabled devices?</h2>
+        <p>Yes, the headphones are compatible with all Bluetooth devices.</p>
+      <h2 id="f8">Can I still use my headphones if the battery runs out while in Bluetooth mode?</h2>
+        <p>Yes, you only need to plug in the wires in order to use the headphones.</p>
+      <h2 id="f2">Do they support wireless charging?</h2>
+        <p>No, they don’t have wireless charging capabilities.</p>
+      <h2 id="f12">How long does it take to charge the headphones, and how long does the battery last?</h2>
+        <p>They charge to full in 2 hours, and last 17 hours with 12 hours in ANC mode.</p>
+      <h2 id="f6">Can I use Bluetooth and wired modes simultaneously on my headphones?</h2>
+        <p>No, they work independently depending on which connection is plug into the IEMs.</p>
+      <h2 id="f9">Can I connect multiple devices to my headphones simultaneously via Bluetooth?</h2>
+        <p>No, you can only connect one device at a time.</p>
+      <h2 id="f3">How do I pair my headphones with a Bluetooth device?</h2>
+        <p>The headphones should be ready to connect as soon as they are out of the case. Go to your Bluetooth settings and look for “CZero” to connect to it.</p>
+      <h2 id="f2">Do they have noise-canceling features?</h2>
+        <p>Yes, they have active noise cancelling.  You just need to tap either headphone 2 to change the noise cancelling mode.</p>
+      <h2 id="f6">What is the range of Bluetooth connectivity for these headphones?</h2>
+        <p>The Bluetooth range is 30ft of open space.</p>
+      <h2 id="f5">Can I use the headphones while they are charging via USB?</h2>
+        <p>Yes, you just need to place the Bluetooth connectors in their case to charge plug the IEMs to the wires.</p>
+      <h2 id="f11">Do wired headphones with Bluetooth capability support voice assistant integration?</h2>
+        <p>Yes, the headphones are compatible with Alexa and Google. You just need to hold down for 4s to activate it.</p>
+      <h2 id="f10">Can I customize the sound settings or EQ preferences when using Bluetooth mode?</h2>
+        <p>You can use our app “Crimzon”, it is available on both IOS and android.</p>
+      <h2 id="f13">Are there any warranty or support options available for troubleshooting Bluetooth connectivity issues?</h2>
+        <p>Yes, our headphones come with a 1-year warranty guarantee.</p>
+</body>
